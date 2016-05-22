@@ -1,12 +1,17 @@
 {
-  "bg": 101, 
+  "requested": {
+    "duration": 0, 
+    "rate": 0, 
+    "temp": "absolute"
+  }, 
+  "bg": 99, 
   "temp": "absolute", 
-  "snoozeBG": 110, 
-  "recieved": true, 
+  "snoozeBG": 99, 
+  "timestamp": "2016-05-22T12:48:41.996490", 
   "rate": 1.5, 
-  "reason": "Eventual BG 110>100, temp 0<1.475U/hr", 
-  "eventualBG": 110, 
-  "timestamp": "2016-05-22T12:30:30.929474", 
-  "duration": 30, 
-  "tick": null
+  "reason": "99 is in range. No temp required; cancel", 
+  "eventualBG": 99, 
+  "recieved": false, 
+  "duration": 12, 
+  "tick": -1
 }
