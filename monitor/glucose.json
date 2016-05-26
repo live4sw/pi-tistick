@@ -1,5 +1,47 @@
 [
   {
+    "_id": "57470588a252ef437d5a4971",
+    "device": "dexcom",
+    "date": 1464272097000,
+    "dateString": "Thu May 26 10:14:57 EDT 2016",
+    "sgv": 75,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 117216,
+    "unfiltered": 113856,
+    "rssi": 673,
+    "noise": 1,
+    "glucose": 75
+  },
+  {
+    "_id": "5747032ca252ef437d5a496a",
+    "device": "dexcom",
+    "date": 1464271496000,
+    "dateString": "Thu May 26 10:04:56 EDT 2016",
+    "sgv": 80,
+    "direction": "NOT COMPUTABLE",
+    "type": "sgv",
+    "filtered": 121856,
+    "unfiltered": 118432,
+    "rssi": 418,
+    "noise": 1,
+    "glucose": 80
+  },
+  {
+    "_id": "574701ffa252ef437d5a4967",
+    "device": "dexcom",
+    "date": 1464271196000,
+    "dateString": "Thu May 26 09:59:56 EDT 2016",
+    "sgv": 82,
+    "direction": "NOT COMPUTABLE",
+    "type": "sgv",
+    "filtered": 123728,
+    "unfiltered": 120960,
+    "rssi": 166,
+    "noise": 1,
+    "glucose": 82
+  },
+  {
     "_id": "574700d3a252ef437d5a4964",
     "device": "dexcom",
     "date": 1464270896000,
@@ -96,47 +138,5 @@
     "rssi": 418,
     "noise": 1,
     "glucose": 96
-  },
-  {
-    "_id": "5746f06ba252ef437d5a493d",
-    "device": "dexcom",
-    "date": 1464266696000,
-    "dateString": "Thu May 26 08:44:56 EDT 2016",
-    "sgv": 96,
-    "direction": "NOT COMPUTABLE",
-    "type": "sgv",
-    "filtered": 135072,
-    "unfiltered": 135520,
-    "rssi": 162,
-    "noise": 1,
-    "glucose": 96
-  },
-  {
-    "_id": "5746ef40a252ef437d5a493a",
-    "device": "dexcom",
-    "date": 1464266396000,
-    "dateString": "Thu May 26 08:39:56 EDT 2016",
-    "sgv": 95,
-    "direction": "NOT COMPUTABLE",
-    "type": "sgv",
-    "filtered": 134592,
-    "unfiltered": 135104,
-    "rssi": 165,
-    "noise": 1,
-    "glucose": 95
-  },
-  {
-    "_id": "5746ee2da252ef437d5a4937",
-    "device": "dexcom",
-    "date": 1464266096000,
-    "dateString": "Thu May 26 08:34:56 EDT 2016",
-    "sgv": 95,
-    "direction": "NOT COMPUTABLE",
-    "type": "sgv",
-    "filtered": 133920,
-    "unfiltered": 135168,
-    "rssi": 163,
-    "noise": 1,
-    "glucose": 95
   }
 ]
