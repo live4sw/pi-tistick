@@ -1,5 +1,47 @@
 [
   {
+    "_id": "574736bba252ef437d5a49fb",
+    "device": "dexcom",
+    "date": 1464284695000,
+    "dateString": "Thu May 26 13:44:55 EDT 2016",
+    "sgv": 133,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 182624,
+    "unfiltered": 183968,
+    "rssi": 174,
+    "noise": 1,
+    "glucose": 133
+  },
+  {
+    "_id": "57473593a252ef437d5a49f8",
+    "device": "dexcom",
+    "date": 1464284395000,
+    "dateString": "Thu May 26 13:39:55 EDT 2016",
+    "sgv": 133,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 182432,
+    "unfiltered": 183840,
+    "rssi": 171,
+    "noise": 1,
+    "glucose": 133
+  },
+  {
+    "_id": "57473467a252ef437d5a49f4",
+    "device": "dexcom",
+    "date": 1464284095000,
+    "dateString": "Thu May 26 13:34:55 EDT 2016",
+    "sgv": 129,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 182048,
+    "unfiltered": 179456,
+    "rssi": 418,
+    "noise": 1,
+    "glucose": 129
+  },
+  {
     "_id": "57473211a252ef437d5a49ef",
     "device": "dexcom",
     "date": 1464283495000,
@@ -96,43 +138,5 @@
     "rssi": 187,
     "noise": 1,
     "glucose": 132
-  },
-  {
-    "_id": "574729e2a252ef437d5a49d8",
-    "device": "dexcom",
-    "date": 1464281395000,
-    "dateString": "Thu May 26 12:49:55 EDT 2016",
-    "sgv": 136,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 191648,
-    "unfiltered": 186976,
-    "rssi": 173,
-    "noise": 1,
-    "glucose": 136
-  },
-  {
-    "_id": "574728baa252ef437d5a49d5",
-    "device": "dexcom",
-    "type": "cal",
-    "date": 1464281097000,
-    "dateString": "Thu May 26 12:44:57 EDT 2016",
-    "slope": 1056.247566855834,
-    "intercept": 38328.14085528361,
-    "scale": 1
-  },
-  {
-    "_id": "574728b5a252ef437d5a49d3",
-    "device": "dexcom",
-    "date": 1464281097000,
-    "dateString": "Thu May 26 12:44:57 EDT 2016",
-    "sgv": 137,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 191968,
-    "unfiltered": 188800,
-    "rssi": 191,
-    "noise": 1,
-    "glucose": 137
   }
 ]
