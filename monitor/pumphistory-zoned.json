@@ -1,0 +1,138 @@
+[
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-05-27T00:08:48 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-05-27T00:08:48-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "7048005b10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-05-27T00:08:48 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-05-27T00:08:48-04:00", 
+    "_body": "00", 
+    "_head": "3337", 
+    "rate": 1.375, 
+    "_date": "7048005b10"
+  }, 
+  {
+    "_type": "Model522ResultTotals", 
+    "_description": "Model522ResultTotals 2016-05-27T00:00:00 head[1], body[41] op[0x6d]", 
+    "timestamp": "2016-05-27T00:00:00-04:00", 
+    "_body": "05007f7f7f01000004d2034244019020004101902001184600280a00501407030100030c00e8000000", 
+    "_head": "6d", 
+    "_date": "5a90"
+  }, 
+  {
+    "_type": "ResultDailyTotal", 
+    "_description": "ResultDailyTotal 2016-05-27T00:00:00 head[5], body[0] op[0x07]", 
+    "timestamp": "2016-05-27T00:00:00-04:00", 
+    "_body": "", 
+    "_head": "07000004d2", 
+    "valid_date": "2016-05-26", 
+    "_date": "5a90"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-05-26T23:53:52 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-05-26T23:53:52-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "7475175a10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-05-26T23:53:52 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-05-26T23:53:52-04:00", 
+    "_body": "00", 
+    "_head": "332a", 
+    "rate": 1.05, 
+    "_date": "7475175a10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-05-26T23:12:48 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-05-26T23:12:48-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "704c175a10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-05-26T23:12:48 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-05-26T23:12:48-04:00", 
+    "_body": "00", 
+    "_head": "3341", 
+    "rate": 1.625, 
+    "_date": "704c175a10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-05-26T23:08:51 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-05-26T23:08:51-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "7348175a10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-05-26T23:08:51 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-05-26T23:08:51-04:00", 
+    "_body": "00", 
+    "_head": "3322", 
+    "rate": 0.85, 
+    "_date": "7348175a10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-05-26T22:59:52 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-05-26T22:59:52-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "747b165a10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-05-26T22:59:52 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-05-26T22:59:52-04:00", 
+    "_body": "00", 
+    "_head": "3344", 
+    "rate": 1.7, 
+    "_date": "747b165a10"
+  }, 
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-05-26T21:37:04 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-05-26T21:37:04-04:00", 
+    "_body": "", 
+    "programmed": 1.0, 
+    "_head": "010a0a00", 
+    "amount": 1.0, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "4465551a10"
+  }, 
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-05-26T21:23:49 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-05-26T21:23:49-04:00", 
+    "_body": "", 
+    "programmed": 0.5, 
+    "_head": "01050500", 
+    "amount": 0.5, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "7157551a10"
+  }
+]
