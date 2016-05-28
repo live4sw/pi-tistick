@@ -1,12 +1,12 @@
 {
-  "bg": 111, 
+  "bg": 93, 
   "temp": "absolute", 
-  "snoozeBG": 90, 
+  "snoozeBG": 103, 
   "recieved": true, 
-  "rate": 0.45, 
-  "reason": "Eventual BG 90<95, no temp, setting 0.475U/hr", 
-  "eventualBG": 90, 
-  "timestamp": "2016-05-28T11:15:30.832880", 
+  "rate": 1.125, 
+  "reason": "Eventual BG 103>100, temp 0.45<1.125U/hr", 
+  "eventualBG": 103, 
+  "timestamp": "2016-05-28T11:37:14.634196", 
   "duration": 30, 
-  "tick": -6
+  "tick": null
 }
