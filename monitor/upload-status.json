@@ -1,0 +1,45 @@
+{
+  "pump": {
+    "battery": {
+      "status": "normal", 
+      "voltage": 1.47
+    }, 
+    "status": {
+      "status": "normal", 
+      "timestamp": "2016-06-04T05:45:04.000Z", 
+      "bolusing": false, 
+      "suspended": false
+    }, 
+    "reservoir": 113.6, 
+    "clock": "2016-06-04T01:45:27-04:00"
+  }, 
+  "openaps": {
+    "suggested": {
+      "bg": 125, 
+      "temp": "absolute", 
+      "snoozeBG": 129, 
+      "timestamp": "2016-06-04T05:45:11.000Z", 
+      "reason": "Eventual BG 129>120, temp 1.35 >~ req 1.3U/hr", 
+      "eventualBG": 129, 
+      "tick": "+1"
+    }, 
+    "iob": {
+      "timestamp": "2016-06-04T05:45:08.000Z", 
+      "activity": -0.00016194858906525537, 
+      "iob": 0.0739751956561003, 
+      "bolusiob": 0
+    }, 
+    "enacted": {
+      "bg": 124, 
+      "temp": "absolute", 
+      "snoozeBG": 130, 
+      "recieved": true, 
+      "reason": "Eventual BG 130>120, temp 1.125<1.35U/hr", 
+      "rate": 1.35, 
+      "eventualBG": 130, 
+      "timestamp": "2016-06-04T05:39:20.000Z", 
+      "duration": 30, 
+      "tick": "+3"
+    }
+  }
+}
