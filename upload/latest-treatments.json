@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "_type": "Battery",
+    "_description": "Battery 2016-06-12T15:19:24 head[2], body[0] op[0x1a]",
+    "timestamp": "2016-06-12T15:19:24-04:00",
+    "_body": "",
+    "_head": "1a01",
+    "_date": "58930f0c10",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/Battery",
+    "created_at": "2016-06-12T15:19:24-04:00",
+    "enteredBy": "openaps://medtronic/522",
+    "eventType": "Note",
+    "notes": "Battery 522 "
+  },
+  {
+    "_type": "Battery",
+    "_description": "Battery 2016-06-12T15:18:47 head[2], body[0] op[0x1a]",
+    "timestamp": "2016-06-12T15:18:47-04:00",
+    "_body": "",
+    "_head": "1a00",
+    "_date": "6f920f0c10",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/Battery",
+    "created_at": "2016-06-12T15:18:47-04:00",
+    "enteredBy": "openaps://medtronic/522",
+    "eventType": "Note",
+    "notes": "Battery 522 "
+  }
+]
