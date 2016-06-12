@@ -1,28 +1,31 @@
 [
   {
-    "_type": "Battery",
-    "_description": "Battery 2016-06-12T15:19:24 head[2], body[0] op[0x1a]",
-    "timestamp": "2016-06-12T15:19:24-04:00",
-    "_body": "",
-    "_head": "1a01",
-    "_date": "58930f0c10",
-    "medtronic": "mm://openaps/mm-format-ns-treatments/Battery",
-    "created_at": "2016-06-12T15:19:24-04:00",
-    "enteredBy": "openaps://medtronic/522",
-    "eventType": "Note",
-    "notes": "Battery 522 "
-  },
-  {
-    "_type": "Battery",
-    "_description": "Battery 2016-06-12T15:18:47 head[2], body[0] op[0x1a]",
-    "timestamp": "2016-06-12T15:18:47-04:00",
-    "_body": "",
-    "_head": "1a00",
-    "_date": "6f920f0c10",
-    "medtronic": "mm://openaps/mm-format-ns-treatments/Battery",
-    "created_at": "2016-06-12T15:18:47-04:00",
-    "enteredBy": "openaps://medtronic/522",
-    "eventType": "Note",
-    "notes": "Battery 522 "
+    "duration": "30",
+    "raw_duration": {
+      "_type": "TempBasalDuration",
+      "_description": "TempBasalDuration 2016-06-12T15:32:49 head[2], body[0] op[0x16]",
+      "timestamp": "2016-06-12T15:32:49-04:00",
+      "_body": "",
+      "_head": "1601",
+      "duration (min)": 30,
+      "_date": "71a00f4c10"
+    },
+    "timestamp": "2016-06-12T15:32:49-04:00",
+    "absolute": "0.1",
+    "rate": 0.1,
+    "raw_rate": {
+      "_type": "TempBasal",
+      "temp": "absolute",
+      "_description": "TempBasal 2016-06-12T15:32:49 head[2], body[1] op[0x33]",
+      "timestamp": "2016-06-12T15:32:49-04:00",
+      "_body": "00",
+      "_head": "3304",
+      "rate": 0.1,
+      "_date": "71a00f4c10"
+    },
+    "eventType": "Temp Basal",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/Temp Basal",
+    "created_at": "2016-06-12T15:32:49-04:00",
+    "enteredBy": "openaps://medtronic/522"
   }
 ]
