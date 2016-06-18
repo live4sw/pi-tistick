@@ -1,16 +1,142 @@
-<!DOCTYPE html>
-    <html>
-    <head>
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <style type="text/css">
-        html, body, iframe { margin: 0; padding: 0; height: 100%; }
-        iframe { display: block; width: 100%; border: none; }
-      </style>
-    <title>Application Error</title>
-    </head>
-    <body>
-      <iframe src="//s3.amazonaws.com/heroku_pages/error.html">
-        <p>Application Error</p>
-      </iframe>
-    </body>
-    </html>
+[
+  {
+    "_id": "5764ac93a252ef437d5aa504",
+    "device": "dexcom",
+    "date": 1466215368000,
+    "dateString": "Fri Jun 17 22:02:48 EDT 2016",
+    "sgv": 90,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 124288,
+    "unfiltered": 119232,
+    "rssi": 198,
+    "noise": 1,
+    "glucose": 90
+  },
+  {
+    "_id": "5764ab67a252ef437d5aa501",
+    "device": "dexcom",
+    "date": 1466215068000,
+    "dateString": "Fri Jun 17 21:57:48 EDT 2016",
+    "sgv": 93,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 126624,
+    "unfiltered": 122592,
+    "rssi": 201,
+    "noise": 1,
+    "glucose": 93
+  },
+  {
+    "_id": "5764aa3ca252ef437d5aa4fd",
+    "device": "dexcom",
+    "date": 1466214768000,
+    "dateString": "Fri Jun 17 21:52:48 EDT 2016",
+    "sgv": 97,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 129504,
+    "unfiltered": 126336,
+    "rssi": 199,
+    "noise": 1,
+    "glucose": 97
+  },
+  {
+    "_id": "5764a910a252ef437d5aa4f8",
+    "device": "dexcom",
+    "date": 1466214468000,
+    "dateString": "Fri Jun 17 21:47:48 EDT 2016",
+    "sgv": 100,
+    "direction": "FortyFiveDown",
+    "type": "sgv",
+    "filtered": 134272,
+    "unfiltered": 128928,
+    "rssi": 200,
+    "noise": 1,
+    "glucose": 100
+  },
+  {
+    "_id": "5764a7e4a252ef437d5aa4f5",
+    "device": "dexcom",
+    "date": 1466214168000,
+    "dateString": "Fri Jun 17 21:42:48 EDT 2016",
+    "sgv": 103,
+    "direction": "FortyFiveDown",
+    "type": "sgv",
+    "filtered": 141216,
+    "unfiltered": 131968,
+    "rssi": 205,
+    "noise": 1,
+    "glucose": 103
+  },
+  {
+    "_id": "5764a6b7a252ef437d5aa4ef",
+    "device": "dexcom",
+    "date": 1466213868000,
+    "dateString": "Fri Jun 17 21:37:48 EDT 2016",
+    "sgv": 108,
+    "direction": "FortyFiveDown",
+    "type": "sgv",
+    "filtered": 148576,
+    "unfiltered": 136128,
+    "rssi": 205,
+    "noise": 1,
+    "glucose": 108
+  },
+  {
+    "_id": "5764a58ca252ef437d5aa4ec",
+    "device": "dexcom",
+    "date": 1466213568000,
+    "dateString": "Fri Jun 17 21:32:48 EDT 2016",
+    "sgv": 115,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 153408,
+    "unfiltered": 142944,
+    "rssi": 212,
+    "noise": 1,
+    "glucose": 115
+  },
+  {
+    "_id": "5764a460a252ef437d5aa4e9",
+    "device": "dexcom",
+    "date": 1466213268000,
+    "dateString": "Fri Jun 17 21:27:48 EDT 2016",
+    "sgv": 123,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 153120,
+    "unfiltered": 149984,
+    "rssi": 204,
+    "noise": 1,
+    "glucose": 123
+  },
+  {
+    "_id": "5764a334a252ef437d5aa4e5",
+    "device": "dexcom",
+    "date": 1466212968000,
+    "dateString": "Fri Jun 17 21:22:48 EDT 2016",
+    "sgv": 127,
+    "direction": "FortyFiveUp",
+    "type": "sgv",
+    "filtered": 147072,
+    "unfiltered": 153824,
+    "rssi": 183,
+    "noise": 1,
+    "glucose": 127
+  },
+  {
+    "_id": "5764a207a252ef437d5aa4e2",
+    "device": "dexcom",
+    "date": 1466212668000,
+    "dateString": "Fri Jun 17 21:17:48 EDT 2016",
+    "sgv": 125,
+    "direction": "SingleUp",
+    "type": "sgv",
+    "filtered": 136544,
+    "unfiltered": 152160,
+    "rssi": 206,
+    "noise": 1,
+    "glucose": 125
+  }
+]
