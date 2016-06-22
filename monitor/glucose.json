@@ -1,5 +1,19 @@
 [
   {
+    "_id": "576ad4acea06ef0a5f7228ad",
+    "device": "dexcom",
+    "date": 1466618842000,
+    "dateString": "Wed Jun 22 14:07:22 EDT 2016",
+    "sgv": 135,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 174176,
+    "unfiltered": 168672,
+    "rssi": 184,
+    "noise": 1,
+    "glucose": 135
+  },
+  {
     "_id": "576ad37eea06ef0a5f7228ab",
     "device": "dexcom",
     "date": 1466618542000,
@@ -124,19 +138,5 @@
     "rssi": 191,
     "noise": 1,
     "glucose": 166
-  },
-  {
-    "_id": "576ac8f4ea06ef0a5f722893",
-    "device": "dexcom",
-    "date": 1466615842000,
-    "dateString": "Wed Jun 22 13:17:22 EDT 2016",
-    "sgv": 172,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 205920,
-    "unfiltered": 203552,
-    "rssi": 192,
-    "noise": 1,
-    "glucose": 172
   }
 ]
