@@ -1,17 +1,12 @@
 {
-  "requested": {
-    "duration": 30, 
-    "rate": 1.9, 
-    "temp": "absolute"
-  }, 
-  "bg": 90, 
+  "bg": 210, 
   "temp": "absolute", 
-  "snoozeBG": 134, 
-  "timestamp": "2016-06-28T18:15:18.375883", 
-  "rate": 0.925, 
-  "reason": "Eventual BG 134>105, adj. req. rate:2.4 to maxSafeBasal:1.9, temp 0.925<1.9U/hr", 
-  "eventualBG": 134, 
-  "recieved": false, 
-  "duration": 24, 
-  "tick": "+14"
+  "snoozeBG": 256, 
+  "recieved": true, 
+  "rate": 1.875, 
+  "reason": "max_iob 2, adj. req. rate:4.9 to maxSafeBasal:1.9, no temp, setting 1.9U/hr", 
+  "eventualBG": 209, 
+  "timestamp": "2016-06-28T18:50:37.677375", 
+  "duration": 30, 
+  "tick": "+10"
 }
