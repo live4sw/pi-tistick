@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "duration": "0",
+    "bolus": {
+      "_type": "Bolus",
+      "_description": "Bolus 2016-07-03T23:40:42 head[4], body[0] op[0x01]",
+      "timestamp": "2016-07-03T23:40:42-04:00",
+      "_body": "",
+      "programmed": 2.2,
+      "_head": "01161600",
+      "amount": 2.2,
+      "duration": 0,
+      "type": "normal",
+      "_date": "6ae8570310"
+    },
+    "timestamp": "2016-07-03T23:40:42-04:00",
+    "created_at": "2016-07-03T23:40:42-04:00",
+    "eventType": "Correction Bolus",
+    "insulin": "2.2",
+    "notes": "Normal bolus (solo, no bolus wizard).\nProgrammed bolus 2.2\nDelivered bolus 2.2\nPercent delivered:  100%",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/Correction Bolus",
+    "enteredBy": "openaps://medtronic/522"
+  }
+]
