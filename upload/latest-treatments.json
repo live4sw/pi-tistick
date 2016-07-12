@@ -1,58 +1,31 @@
 [
   {
-    "_type": "Model522ResultTotals",
-    "_description": "Model522ResultTotals 2016-07-12T00:00:00 head[1], body[41] op[0x6d]",
-    "timestamp": "2016-07-12T00:00:00-04:00",
-    "_body": "05008b759a0400000644039c3a02a82a005202a82a01c04200540c0094160b030003050c00e8000000",
-    "_head": "6d",
-    "_date": "6b90",
-    "medtronic": "mm://openaps/mm-format-ns-treatments/Model522ResultTotals",
-    "created_at": "2016-07-12T00:00:00-04:00",
-    "enteredBy": "openaps://medtronic/522",
-    "eventType": "Note",
-    "notes": "Model522ResultTotals 522 "
-  },
-  {
-    "_type": "ResultDailyTotal",
-    "_description": "ResultDailyTotal 2016-07-12T00:00:00 head[5], body[0] op[0x07]",
-    "timestamp": "2016-07-12T00:00:00-04:00",
-    "_body": "",
-    "_head": "0700000644",
-    "valid_date": "2016-07-11",
-    "_date": "6b90",
-    "medtronic": "mm://openaps/mm-format-ns-treatments/ResultDailyTotal",
-    "created_at": "2016-07-12T00:00:00-04:00",
-    "enteredBy": "openaps://medtronic/522",
-    "eventType": "Note",
-    "notes": "ResultDailyTotal 522 "
-  },
-  {
     "duration": "30",
     "raw_duration": {
       "_type": "TempBasalDuration",
-      "_description": "TempBasalDuration 2016-07-11T23:38:16 head[2], body[0] op[0x16]",
-      "timestamp": "2016-07-11T23:38:16-04:00",
+      "_description": "TempBasalDuration 2016-07-12T01:16:33 head[2], body[0] op[0x16]",
+      "timestamp": "2016-07-12T01:16:33-04:00",
       "_body": "",
       "_head": "1601",
       "duration (min)": 30,
-      "_date": "50e6174b10"
+      "_date": "61d0014c10"
     },
-    "timestamp": "2016-07-11T23:38:16-04:00",
-    "absolute": "1.55",
-    "rate": 1.55,
+    "timestamp": "2016-07-12T01:16:33-04:00",
+    "absolute": "1.875",
+    "rate": 1.875,
     "raw_rate": {
       "_type": "TempBasal",
       "temp": "absolute",
-      "_description": "TempBasal 2016-07-11T23:38:16 head[2], body[1] op[0x33]",
-      "timestamp": "2016-07-11T23:38:16-04:00",
+      "_description": "TempBasal 2016-07-12T01:16:33 head[2], body[1] op[0x33]",
+      "timestamp": "2016-07-12T01:16:33-04:00",
       "_body": "00",
-      "_head": "333e",
-      "rate": 1.55,
-      "_date": "50e6174b10"
+      "_head": "334b",
+      "rate": 1.875,
+      "_date": "61d0014c10"
     },
     "eventType": "Temp Basal",
     "medtronic": "mm://openaps/mm-format-ns-treatments/Temp Basal",
-    "created_at": "2016-07-11T23:38:16-04:00",
+    "created_at": "2016-07-12T01:16:33-04:00",
     "enteredBy": "openaps://medtronic/522"
   }
 ]
