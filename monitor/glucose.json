@@ -1,5 +1,51 @@
 [
   {
+    "_id": "578661ddea06ef0a5f72888f",
+    "device": "dexcom",
+    "date": 1468424590000,
+    "dateString": "Wed Jul 13 11:43:10 EDT 2016",
+    "sgv": 85,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 137088,
+    "unfiltered": 136832,
+    "rssi": 192,
+    "noise": 1,
+    "glucose": 85
+  },
+  {
+    "_id": "578661ddea06ef0a5f728891",
+    "device": "dexcom",
+    "type": "cal",
+    "date": 1468424477000,
+    "dateString": "Wed Jul 13 11:41:17 EDT 2016",
+    "slope": 987.0848093852422,
+    "intercept": 38537.09010649705,
+    "scale": 0.9
+  },
+  {
+    "_id": "578661ddea06ef0a5f728890",
+    "device": "dexcom",
+    "type": "mbg",
+    "date": 1468424475000,
+    "dateString": "Wed Jul 13 11:41:15 EDT 2016",
+    "mbg": 71
+  },
+  {
+    "_id": "578660afea06ef0a5f72888c",
+    "device": "dexcom",
+    "date": 1468424290000,
+    "dateString": "Wed Jul 13 11:38:10 EDT 2016",
+    "sgv": 97,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 136896,
+    "unfiltered": 137824,
+    "rssi": 196,
+    "noise": 1,
+    "glucose": 97
+  },
+  {
     "_id": "57865f85ea06ef0a5f72888a",
     "device": "dexcom",
     "date": 1468423990000,
@@ -82,61 +128,5 @@
     "rssi": 194,
     "noise": 1,
     "glucose": 98
-  },
-  {
-    "_id": "5786587dea06ef0a5f72887b",
-    "device": "dexcom",
-    "date": 1468422190000,
-    "dateString": "Wed Jul 13 11:03:10 EDT 2016",
-    "sgv": 100,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 144512,
-    "unfiltered": 140992,
-    "rssi": 195,
-    "noise": 1,
-    "glucose": 100
-  },
-  {
-    "_id": "57865751ea06ef0a5f728878",
-    "device": "dexcom",
-    "date": 1468421890000,
-    "dateString": "Wed Jul 13 10:58:10 EDT 2016",
-    "sgv": 103,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 147808,
-    "unfiltered": 143392,
-    "rssi": 184,
-    "noise": 1,
-    "glucose": 103
-  },
-  {
-    "_id": "57865624ea06ef0a5f728876",
-    "device": "dexcom",
-    "date": 1468421590000,
-    "dateString": "Wed Jul 13 10:53:10 EDT 2016",
-    "sgv": 104,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 150784,
-    "unfiltered": 144864,
-    "rssi": 190,
-    "noise": 1,
-    "glucose": 104
-  },
-  {
-    "_id": "578654faea06ef0a5f728871",
-    "device": "dexcom",
-    "date": 1468421290000,
-    "dateString": "Wed Jul 13 10:48:10 EDT 2016",
-    "sgv": 108,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 152864,
-    "unfiltered": 148544,
-    "rssi": 194,
-    "noise": 1,
-    "glucose": 108
   }
 ]
